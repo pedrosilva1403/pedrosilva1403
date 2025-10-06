@@ -26,7 +26,13 @@ Me chamo Pedro Henrique da Silva, tenho 24 anos e sou natural do Minas Gerais. G
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img
+    align="left" 
+    alt="Visual Studio Code" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+/>
 <br/>
 <br/>
 
