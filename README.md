@@ -4,6 +4,7 @@
 
 <p align="left">
 👋 Olá! Seja bem-vindo ao meu GitHub
+ 
 Meu nome é Pedro Henrique 🧑‍💻 e atualmente estou focado em estudar desenvolvimento voltado para automação 🤖, utilizando Python 🐍 como principal linguagem de referência.
 📂 Neste repositório, você encontrará todos os projetos que estou desenvolvendo ao longo da minha jornada de aprendizado. Cada projeto representa um passo na minha evolução como desenvolvedor, com foco em soluções práticas e eficientes para automação de tarefas.
 🚀 Sinta-se à vontade para explorar os repositórios, acompanhar meu progresso e entrar em contato caso tenha interesse em colaborar ou conversar sobre tecnologia!
