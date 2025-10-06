@@ -3,28 +3,10 @@
 
 
 <p align="left">
-Senior Software Engineer with 4 years building product-driven applications and leading technical initiatives. I specialize in end-to-end product development, system architecture, and team leadership for innovative technology solutions.
-
-🤖 Key Facts:
-
-- AI-Powered Applications: Built recommendation systems, intelligent chatbots, and ML model integration for e-commerce platforms
-- Solutions Architecture: Designed complex system architectures using modern frameworks for energy simulations
-- Team Leadership: Mentored engineering teams, established development processes, and drove cross-functional collaboration
-- Technical Innovation: Resolved critical infrastructure issues, led major refactoring initiatives and improved team processes 
-
-💻 Full-Stack Engineering:
-
-- Backend: Python, Flask, GraphQL, PostgreSQL, MongoDB, Pytest, GraphQL & RESTFul APIs
-- Frontend: React, Next.js, TypeScript, TailwindCSS, Javascript
-- Infrastructure: GCP, CI/CD pipelines, Supabase, VertexAI, familiarity with Kubernetes
-
-🚀 Leadership Impact:
-
-- Created development workflows and documentation standards adopted within engineering team
-- Bridge technical teams with business stakeholders for cohesive product delivery
-- Active tech communicator through content creation and knowledge sharing initiatives
-
-🔥 Emerging Focus: Quantum-AI intersection as the next frontier for solving complex computational challenges. Fluent in English, experienced in remote collaboration, and passionate about leveraging technology to solve complex, real-world problems, especially through AI/ML-driven products.
+👋 Olá! Seja bem-vindo ao meu GitHub
+Meu nome é Pedro Henrique 🧑‍💻 e atualmente estou focado em estudar desenvolvimento voltado para automação 🤖, utilizando Python 🐍 como principal linguagem de referência.
+📂 Neste repositório, você encontrará todos os projetos que estou desenvolvendo ao longo da minha jornada de aprendizado. Cada projeto representa um passo na minha evolução como desenvolvedor, com foco em soluções práticas e eficientes para automação de tarefas.
+🚀 Sinta-se à vontade para explorar os repositórios, acompanhar meu progresso e entrar em contato caso tenha interesse em colaborar ou conversar sobre tecnologia!
  
 </p>&nbsp;
 
