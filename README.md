@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Pedro Silva
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvimento de Automação`**
 
 Me chamo Pedro Henrique da Silva, tenho 24 anos e sou natural do Minas Gerais. Graduando em Ciência da Computação na Unifran. Atualmente, estou aprimorando minhas habilidades em automação, utilizando Python como referência.
 
